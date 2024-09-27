@@ -7,4 +7,4 @@
 # [(clikk)](https://steppedtax.github.io/)
 
 **Orrr you could see its guts riggght on the page you're reading this. You don't even need to go anywhere!**
-## Have a foo-iest day!
+## Have a foo-iest day (or night)!
